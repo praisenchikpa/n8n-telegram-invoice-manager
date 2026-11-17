@@ -2,7 +2,7 @@
 
 Send an invoice photo or PDF to a Telegram bot. AI reads it, files it in Google Drive, logs the details to Google Sheets, and replies with a summary.
 
-**13 nodes** - built with [n8n](https://n8n.io).
+**13 nodes** - built with [n8n](https://n8n.io). Telegram Bot API, Google Gemini, OpenRouter, Google Drive, Google Sheets
 
 ## How it works
 
